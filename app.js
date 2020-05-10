@@ -6,4 +6,4 @@ app.get('/', (req, res) => {
 })
 
 
-app.listen(80, () => console.log("waiting on port 80"));
+app.listen(3000, () => console.log("waiting on port 80"));
